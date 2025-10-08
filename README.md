@@ -106,7 +106,7 @@ Please check the [issues](https://github.com/yourusername/Advanced-PHP-Email-Par
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the Imranch4 (LICENSE).
 
 ---
 
