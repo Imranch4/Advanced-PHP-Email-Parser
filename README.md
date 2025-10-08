@@ -110,7 +110,7 @@ This project is licensed under the Imranch4 (LICENSE).
 
 ---
 
-> Made with ❤️ by [Your Name or Organization]
+> Made with ❤️ by Imranch4
 
 ---
 
